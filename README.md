@@ -6,7 +6,8 @@ Here is the Live Youtube DEMO
 
 ## Dashboards Overview
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/79bd1ee7-a34d-4cfa-af0c-560d73b9f440)
+
+![image](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.40%20am.png)
 
 ### Dashboard 1: Income Sources Analysis
 
@@ -22,8 +23,8 @@ Here is the Live Youtube DEMO
 - **Yearly Slicer Control**: All values and charts update based on the selected year.
 
 
-![image](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.40%20am.png)
 
+![image](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.29%20am.png)
 ### Dashboard 2: Profits by Countries
 
 - **Dynamic Map Chart**: Creative design showing profit values across different countries.
@@ -33,7 +34,7 @@ Here is the Live Youtube DEMO
 - **Yearly Slicer Control**: Fully controlled by the yearly slicer for dynamic updates.
 
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/684a91b9-c341-4acc-8a4e-fbd592bbb21b)
+![image](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.49%20am.png)
 
 ### Dashboard 3: Sales Process Status
 
@@ -43,7 +44,7 @@ Here is the Live Youtube DEMO
 - **Refunded Orders**: Bar chart displaying the percentage of refunded orders.
 - **Yearly Slicer Control**: Enables filtering and updating based on the selected year.
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/474c9696-72f9-4fb9-966e-395dc9341e19)
+![image](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.47.05%20am.png)
 
 ### Dashboard 4: Project Workflow Report
 
