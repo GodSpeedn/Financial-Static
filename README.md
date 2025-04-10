@@ -20,7 +20,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Yearly Slicer Control**: All values and charts update based on the selected year.
 
 
-![image]([https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.40%20am.png])
+![image](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.40%20am.png)
 
 ### Dashboard 2: Profits by Countries
 
