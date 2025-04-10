@@ -1,6 +1,8 @@
 # Financial Statistics Dashboard System
 
 This repository contains a comprehensive financial statistics dashboard system created in MS Excel. It provides detailed analyses of income sources, profits by countries, sales process status, and project workflow KPIs.
+Here is the Live Youtube DEMO
+![video](https://youtu.be/tnMQ2amQRqE)
 
 ## Dashboards Overview
 
