@@ -20,7 +20,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Yearly Slicer Control**: All values and charts update based on the selected year.
 
 
-![image]([https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/ae687abf-e25b-40ee-84cd-6d23559604d2](https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.40%20am.png))
+![image]([https://github.com/GodSpeedn/Financial-Static/blob/main/Screen%20Shot%202025-04-11%20at%2012.46.40%20am.png])
 
 ### Dashboard 2: Profits by Countries
 
